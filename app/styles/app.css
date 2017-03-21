@@ -1,0 +1,45 @@
+ img {
+  width: 500px;
+  margin-right: 5%;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+#searchbox {
+  margin-left: 450px;
+}
+
+a {
+  text-decoration-style: none;
+}
+
+#content img {
+  position: relative;
+}
+
+#center-titles {
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.titlecolor {
+    background-color: #65E0CB;
+}
+
+.centercontent {
+
+  /*margin-top: 50px;*/
+  text-align: left;
+  margin-left: 22%;
+  margin-right: 20%;
+}
+
+.authoralign {
+  margin-top: 50px;
+  text-align: left;
+  margin-left: 22%;
+  margin-right: 20%;
+}
